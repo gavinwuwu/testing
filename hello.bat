@@ -1,1 +1,1 @@
-cmd echo "I am hacker" > %USERPROFILE%\Desktop\hi.txt
+echo "I am hacker" > %USERPROFILE%\Desktop\hi.txt
